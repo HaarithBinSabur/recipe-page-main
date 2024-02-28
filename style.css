@@ -102,13 +102,13 @@ margin-left: 100px;
 
 }
 
-tr{
-    border-bottom: 1px solid hsl(0, 20%, 86%);
+table{
+    margin:10px 0px 10px 0px;
 }
+
 .amount{
 font-size: 13px;
 font-family: "Outfit", sans-serif;
 font-weight: 600;
 color:hsl(14, 45%, 36%);
-
 }
